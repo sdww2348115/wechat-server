@@ -1,1 +1,3 @@
+service\SendMessage.class
+service\Service.class
 servlet\ServerServlet.class
